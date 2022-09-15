@@ -1,0 +1,1 @@
+This is authentication test from git to remote repo
